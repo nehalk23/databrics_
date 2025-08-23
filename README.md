@@ -7,6 +7,14 @@ this is just info what placement concluentancy dos for preparation
 
 <img width="1291" height="732" alt="image" src="https://github.com/user-attachments/assets/f86d0746-d74a-4e16-8a87-271e513d966f" />
 
+<img width="999" height="630" alt="image" src="https://github.com/user-attachments/assets/b89dc5fe-f13d-4455-ba12-3335ab1c3ced" />
+
+<img width="1026" height="714" alt="image" src="https://github.com/user-attachments/assets/a80ceb97-d703-4546-9ffd-fe0a4152e634" />
+
+<img width="1179" height="638" alt="image" src="https://github.com/user-attachments/assets/6e1f7520-370f-41e7-ae5e-e60551980802" />
+
+
+
 sanple requirement 
 
 Proficiency in Python for data analysis and algorithm development.
@@ -26,6 +34,7 @@ Experience with version control systems, such as Git.
 Knowledge of database management systems (e.g., SQL) and data warehousing solutions.
 Experience with deep learning frameworks (e.g., TensorFlow, PyTorch) for advanced anomaly detection.
 Familiarity with big data technologies (e.g., Hadoop, Spark) and cloud platforms (e.g., AWS, Azure).
+
 
 
 <img width="967" height="796" alt="image" src="https://github.com/user-attachments/assets/73f14e44-4f89-4838-a235-fcce0acc8f28" />
