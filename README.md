@@ -28,4 +28,8 @@ Experience with deep learning frameworks (e.g., TensorFlow, PyTorch) for advance
 Familiarity with big data technologies (e.g., Hadoop, Spark) and cloud platforms (e.g., AWS, Azure).
 
 
+<img width="967" height="796" alt="image" src="https://github.com/user-attachments/assets/73f14e44-4f89-4838-a235-fcce0acc8f28" />
+
+
+
 
